@@ -6,11 +6,11 @@ Before contributing, please refer to and follow the [Terms of Service](#) and [C
 
 ## Getting Started
 
-1. Go to https://github.com/CodingGarden/entropychat.app and fork the repository then clone it to your local machine
-`git clone https://github.com/user/entropychat.app.git` 
-to start making changes to your local repo. 
-
-2. Refer to the [Configuration / Setup](README.md) section of the README file to setup your environment to get started.
+1. Go to https://github.com/CodingGarden/entropychat.app and fork the repository then clone it to your local machine to start making changes to your local repo. 
+```
+git clone https://github.com/user/entropychat.app.git
+``` 
+2. Refer to the [Configuration / Setup](README.md#configuration--setup) section of the README file to setup your environment to get started.
 
 3. If it is your first time contributing to this project, check the issues tab for open issues. Issues marked with the label **good first issue** are a good place to start. 
 
@@ -22,6 +22,10 @@ to start making changes to your local repo.
 
 * Post about your intended feature in an [issue](https://github.com/CodingGarden/entropychat.app/issues), adding the relevant labels and including as much information as needed.
 * After discussing with other contributors and when it is decided that the feature will be implemented, start working on it and submit a pull request.
+
+## Tutorials
+
+* If you want to know how Entropy Chat was built from the beggining, watch the full videos "tutorials" [here](https://www.youtube.com/playlist?list=PLM_i0obccy3ub0N7nNHgYnVr1uGP8-qyL).
 
 ## Contributor Lincense Agreement 
 
